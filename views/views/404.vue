@@ -1,5 +1,6 @@
 <template>
     <p class="page-container">404 page not found</p>
+    sdjjsn
 </template>
 
 <style lang="scss" scoped>
