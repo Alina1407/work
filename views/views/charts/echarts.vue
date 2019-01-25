@@ -1,5 +1,6 @@
 <template>
     <section class="chart-container">
+        
         <el-row>
             <el-col :span="12">
                 <div id="chartColumn" style="width:100%; height:400px;"></div>
